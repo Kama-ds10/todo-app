@@ -17,5 +17,12 @@
   "bugs": {
     "url": "https://github.com/Kama-ds10/todo-app/issues"
   },
-  "homepage": "https://github.com/Kama-ds10/todo-app#readme"
+  "homepage": "https://github.com/Kama-ds10/todo-app#readme",
+  "devDependencies": {
+    "css-loader": "^7.1.4",
+    "html-webpack-plugin": "^5.6.7",
+    "style-loader": "^4.0.0",
+    "webpack-cli": "^7.0.2",
+    "webpack-dev-server": "^5.2.4"
+  }
 }
